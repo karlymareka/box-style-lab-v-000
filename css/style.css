@@ -34,7 +34,7 @@ h4.indifferent {
 }
 
 h4.dubiuos {
-  
+  background: linear-gradient(to right, # , #);
 }
 
 .amiable {
